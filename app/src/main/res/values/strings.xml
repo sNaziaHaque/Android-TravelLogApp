@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">travelapp</string>
+    <string name="searchtitle">Search For Cities</string>
+    <string name="favcities">Fav Cities</string>
+</resources>
